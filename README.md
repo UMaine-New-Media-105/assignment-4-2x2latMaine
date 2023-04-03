@@ -1,11 +1,17 @@
 # assignment-4-2x2latMaine
 assignment-4-2x2latMaine created by GitHub Classroom
 
-A4Q1:
+A4Q1: https://editor.p5js.org/maxxkeoni219/sketches/2mt4kOU82
 
-A4Q2:
+For my first question, I created a simple flower that has customizeable color, size, location, and petal amount. If the petals are yellow, the flower bulb will change to brown.
 
-A4Q3:
+A4Q2: https://editor.p5js.org/maxxkeoni219/sketches/rMWOhEG-F
+
+For this sketch, I created 3 objects that create 3 different looking flowers. The flowers are set in a group together and spaced out according to my design. Then, they are called in a nested loop that will place them multiple times in however many rows or columns is set using the rows and columns variables.
+
+A4Q3: https://editor.p5js.org/maxxkeoni219/sketches/xAT5pb66s
+
+This sketch built off the last question. I added randomness to the location, rotation, size, and color to each flower called. I did this by adding a random() function before calling my flowers within the nested loop.
 
 A4Q4: https://editor.p5js.org/maxxkeoni219/sketches/MGpyEovy6
 
